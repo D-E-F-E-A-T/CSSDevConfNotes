@@ -31,14 +31,17 @@ Communication = <3
 
 Spriting Techniques 
 
-  - <use> 
-    + Multiple SVGs are combined into one file using <symbols>
-    + <use link:href="icons.svg#icon-name"></use> within svg
-    + can't select specific elements to style. stuff brought in by <use>s is put inside the shadow dom and can't be selected.
+  - \<use\> 
+    + Multiple SVGs are combined into one file using \<symbols\>
+    + \<use link:href="icons.svg#icon-name"\>\</use\> within svg
+    + can't select specific elements to style. stuff brought in by \<use\>s is put inside the shadow dom and can't be selected.
     + variants can be accomplished with CSS Variables... which are only supported in FF
   - svgView method
-    + <img src="icons.svg#svgView(viewBox(x,y,z,etc))">
-  - <view> method
-    + <img src="icons.svg#view-name">
+    + \<img src="icons.svg#svgView(viewBox(x,y,z,etc))"\>
+  - \<view\> method
+    + \<img src="icons.svg#view-name"\>
   - background method
     + grumpIcon
+
+goto svg animation library: http://greensock.com/svg-tips
+
