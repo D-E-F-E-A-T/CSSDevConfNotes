@@ -45,3 +45,6 @@ Spriting Techniques
 
 goto svg animation library: http://greensock.com/svg-tips
 
+\<object\>
+
+codepen chrisgannon/blog/my-first-svg-banner-ad
