@@ -3,8 +3,6 @@
 # Brenda Storer
 ## Cracking the SVG Code #CrackSVG
 
-504-229-6828
-
 ###why svg?
 
   - Vector graphic, infinitely scalable
