@@ -54,4 +54,23 @@
   - version
   - xml:preserve -- for text
   - namespaced stuff is likely referenced
-  - 
+  - enable-background 
+
+
+###svg paths
+
+  - m = movemto (x,y)
+  - l = lineto (x,y)
+  - a = arc )rx, ry, x-axis-rotation, large-arc-flag, sweep-flag)
+    + exual rx and ry mean a circular arch, different mean ellipses
+  - c = curveto (cubic bezier curve)
+  - s = curveto (smooth or shorthand cubic bezier curve)
+  - uppercase and lowercase are different
+
+###cubic bezier curve
+
+  - c x1,y1 x2,y2 x,y
+  - s x2,y2 x,y
+
+
+  - transform svg attr is more supported than css transform style
