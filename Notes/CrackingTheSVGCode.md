@@ -3,6 +3,8 @@
 # Brenda Storer
 ## Cracking the SVG Code #CrackSVG
 
+Slides: [http://brendastorer.com/presentations/2015-10-CSSDevConf-SVGs/#intro](http://brendastorer.com/presentations/2015-10-CSSDevConf-SVGs/#intro)
+
 ###why svg?
 
   - Vector graphic, infinitely scalable
